@@ -1,4 +1,4 @@
-# 🤖 Thon-Bot - WhatsApp Bot (Simple TypeScript)  
+# 🤖 Thon-Bot - WhatsApp Bot (Simple Javascript)  
 **Bot WhatsApp minimalist & beginner-friendly!** ✨  
 Bot ringan berbasis TypeScript untuk eksplorasi dasar pembuatan bot WA.  
 
