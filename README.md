@@ -58,13 +58,3 @@ tsc && node .
 
 **⭐ Jangan lupa kasih bintang biar makin semangat ngoding!**  
 ```
-
----
-
-### 💡 **Tips Tambahan**  
-- Tambahkan screenshot demo di `README.md`  
-- Buat video tutorial instalasi di YouTube  
-- Tambahkan daftar command lengkap  
-- Gunakan GitHub Pages untuk dokumentasi  
-
-**Dibuat dengan ❤️ untuk edukasi developer Indonesia!** 🇮🇩
