@@ -34,7 +34,7 @@ Tools: Node.js ≥18, PNPM, TypeScript Compiler
 ## 📥 **Instalasi**  
 ```bash
 git clone https://github.com/Lefthon/Thon-Botwa
-cd NologyBot
+cd Thon-Botwa
 pnpm install
 tsc && node .
 ```
