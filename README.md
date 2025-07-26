@@ -1,4 +1,4 @@
-# 🤖 Thon-Bot - WhatsApp Bot (Simple Javascript)  
+# 🤖 Thon-Bot - WhatsApp Bot (Simple Javascript)  GAGAL TOTAL EROR 🔥❌❌❌❌❌❌❌❌❌❌❌❌
 **Bot WhatsApp minimalist & beginner-friendly!** ✨  
 Bot ringan berbasis Javascript untuk eksplorasi dasar pembuatan bot WA.  
 
