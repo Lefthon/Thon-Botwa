@@ -44,8 +44,8 @@ tsc && node .
 ## 👨‍💻 **Pembuat**  
 **Lefthon**  
 [![WhatsApp](https://img.shields.io/badge/Contact-25D366?logo=whatsapp)](https://wa.me/6282298334109)
-[![YouTube](https://img.shields.io/badge/Tutorial-FF0000?logo=youtube)](https://youtube.com/@)
-[![Instagram](https://img.shields.io/badge/Updates-E4405F?logo=instagram)](https://instagram.com/)
+[![YouTube](https://img.shields.io/badge/Tutorial-FF0000?logo=youtube)](https://youtube.com/@AthaSc)
+[![Instagram](https://img.shields.io/badge/Updates-E4405F?logo=instagram)](https://instagram.com/1netlove)
 
 ---
 
